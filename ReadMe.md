@@ -111,8 +111,8 @@ id: Eritrea
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Eritrea//
-markerFolder: ./Eritrea//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Eritrea] 
