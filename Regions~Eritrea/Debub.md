@@ -40,11 +40,18 @@ markerFolder: ./Debub/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Eritrea/Counties/Debub|Debub]] 
-- [[../../../../../../_public/geo/Continent/Africa/Eritrea/Counties/Debub.public|Debub.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Debub.internal|Debub.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Debub.protect|Debub.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Eritrea/Counties/Debub.private|Debub.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Debub.personal|Debub.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Debub.secret|Debub.secret]] 
+
+### #is_/same_as :: [Debub](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debub.md) 
+
+### #is_/same_as :: [Debub.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debub.public.md) 
+
+### #is_/same_as :: [Debub.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debub.internal.md) 
+
+### #is_/same_as :: [Debub.protect](/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debub.protect.md) 
+
+### #is_/same_as :: [Debub.private](/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debub.private.md) 
+
+### #is_/same_as :: [Debub.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debub.personal.md) 
+
+### #is_/same_as :: [Debub.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debub.secret.md)
 

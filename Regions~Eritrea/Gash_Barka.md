@@ -40,11 +40,18 @@ markerFolder: ./Gash_Barka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Eritrea/Counties/Gash_Barka|Gash_Barka]] 
-- [[../../../../../../_public/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.public|Gash_Barka.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.internal|Gash_Barka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.protect|Gash_Barka.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.private|Gash_Barka.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.personal|Gash_Barka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Gash_Barka.secret|Gash_Barka.secret]] 
+
+### #is_/same_as :: [Gash_Barka](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.md) 
+
+### #is_/same_as :: [Gash_Barka.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.public.md) 
+
+### #is_/same_as :: [Gash_Barka.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.internal.md) 
+
+### #is_/same_as :: [Gash_Barka.protect](/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.protect.md) 
+
+### #is_/same_as :: [Gash_Barka.private](/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.private.md) 
+
+### #is_/same_as :: [Gash_Barka.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.personal.md) 
+
+### #is_/same_as :: [Gash_Barka.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.secret.md)
 

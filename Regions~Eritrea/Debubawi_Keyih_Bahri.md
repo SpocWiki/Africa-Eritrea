@@ -40,11 +40,18 @@ markerFolder: ./Debubawi_Keyih_Bahri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Eritrea/Counties/Debubawi_Keyih_Bahri|Debubawi_Keyih_Bahri]] 
-- [[../../../../../../_public/geo/Continent/Africa/Eritrea/Counties/Debubawi_Keyih_Bahri.public|Debubawi_Keyih_Bahri.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Eritrea/Counties/Debubawi_Keyih_Bahri.internal|Debubawi_Keyih_Bahri.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Eritrea/Counties/Debubawi_Keyih_Bahri.protect|Debubawi_Keyih_Bahri.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Eritrea/Counties/Debubawi_Keyih_Bahri.private|Debubawi_Keyih_Bahri.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Eritrea/Counties/Debubawi_Keyih_Bahri.personal|Debubawi_Keyih_Bahri.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Eritrea/Counties/Debubawi_Keyih_Bahri.secret|Debubawi_Keyih_Bahri.secret]] 
+
+### #is_/same_as :: [Debubawi_Keyih_Bahri](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.md) 
+
+### #is_/same_as :: [Debubawi_Keyih_Bahri.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.public.md) 
+
+### #is_/same_as :: [Debubawi_Keyih_Bahri.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.internal.md) 
+
+### #is_/same_as :: [Debubawi_Keyih_Bahri.protect](/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.protect.md) 
+
+### #is_/same_as :: [Debubawi_Keyih_Bahri.private](/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.private.md) 
+
+### #is_/same_as :: [Debubawi_Keyih_Bahri.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.personal.md) 
+
+### #is_/same_as :: [Debubawi_Keyih_Bahri.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.secret.md)
 

@@ -130,10 +130,4 @@ Capital :: [[Asmara]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Eritrea|Eritrea]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Eritrea.internal|Eritrea.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Eritrea.protect|Eritrea.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Eritrea.private|Eritrea.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Eritrea.personal|Eritrea.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Eritrea.secret|Eritrea.secret]] 
+
