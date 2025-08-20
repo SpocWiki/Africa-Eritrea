@@ -1,39 +1,40 @@
 ---
 location:
-- 15.3333
-- 38.9167
+  - 15.3333
+  - 38.9167
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26888
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Eritrea
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Eritrea
-- Érythrée
-- إريتريا
-- 厄立特里亚
-- Эритрея
-- the State of Eritrea
-- el Estado de Eritrea
+  - Eritrea
+  - Érythrée
+  - إريتريا
+  - 厄立特里亚
+  - Эритрея
+  - the State of Eritrea
+  - el Estado de Eritrea
 Languages:
-- aa-ER
-- ar
-- tig
-- kun
-- ti-ER
+  - aa-ER
+  - ar
+  - tig
+  - kun
+  - ti-ER
 ---
 
 

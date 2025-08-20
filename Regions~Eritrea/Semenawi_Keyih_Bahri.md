@@ -1,30 +1,29 @@
 ---
-location: [ 16.5 , 37.6 ] 
+location:
+  - 16.5
+  - 37.6
 type: geo-Region
 title: Semenawi_Keyih_Bahri
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Semenawi_Keyih_Bahri
-
+  - Semenawi_Keyih_Bahri
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Semenawi_Keyih_Bahri
