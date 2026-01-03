@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asmara](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara|Asmara]] 
 
-### #is_/same_as :: [Asmara.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.public|Asmara.public]] 
 
-### #is_/same_as :: [Asmara.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.internal|Asmara.internal]] 
 
-### #is_/same_as :: [Asmara.protect](/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.protect|Asmara.protect]] 
 
-### #is_/same_as :: [Asmara.private](/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.private|Asmara.private]] 
 
-### #is_/same_as :: [Asmara.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.personal|Asmara.personal]] 
 
-### #is_/same_as :: [Asmara.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba/City/Asmara.secret|Asmara.secret]] 
 

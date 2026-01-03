@@ -40,17 +40,17 @@ markerFolder: ./Gash_Barka/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gash_Barka](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka|Gash_Barka]] 
 
-### #is_/same_as :: [Gash_Barka.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.public|Gash_Barka.public]] 
 
-### #is_/same_as :: [Gash_Barka.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.internal|Gash_Barka.internal]] 
 
-### #is_/same_as :: [Gash_Barka.protect](/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.protect|Gash_Barka.protect]] 
 
-### #is_/same_as :: [Gash_Barka.private](/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.private|Gash_Barka.private]] 
 
-### #is_/same_as :: [Gash_Barka.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.personal|Gash_Barka.personal]] 
 
-### #is_/same_as :: [Gash_Barka.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Gash_Barka.secret|Gash_Barka.secret]] 
 

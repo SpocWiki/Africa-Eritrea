@@ -40,17 +40,17 @@ markerFolder: ./Debubawi_Keyih_Bahri/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Debubawi_Keyih_Bahri](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri|Debubawi_Keyih_Bahri]] 
 
-### #is_/same_as :: [Debubawi_Keyih_Bahri.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.public|Debubawi_Keyih_Bahri.public]] 
 
-### #is_/same_as :: [Debubawi_Keyih_Bahri.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.internal|Debubawi_Keyih_Bahri.internal]] 
 
-### #is_/same_as :: [Debubawi_Keyih_Bahri.protect](/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.protect|Debubawi_Keyih_Bahri.protect]] 
 
-### #is_/same_as :: [Debubawi_Keyih_Bahri.private](/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.private|Debubawi_Keyih_Bahri.private]] 
 
-### #is_/same_as :: [Debubawi_Keyih_Bahri.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.personal|Debubawi_Keyih_Bahri.personal]] 
 
-### #is_/same_as :: [Debubawi_Keyih_Bahri.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Debubawi_Keyih_Bahri.secret|Debubawi_Keyih_Bahri.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Maekel/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maekel](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel|Maekel]] 
 
-### #is_/same_as :: [Maekel.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.public|Maekel.public]] 
 
-### #is_/same_as :: [Maekel.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.internal|Maekel.internal]] 
 
-### #is_/same_as :: [Maekel.protect](/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.protect|Maekel.protect]] 
 
-### #is_/same_as :: [Maekel.private](/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.private|Maekel.private]] 
 
-### #is_/same_as :: [Maekel.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.personal|Maekel.personal]] 
 
-### #is_/same_as :: [Maekel.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Maekel.secret|Maekel.secret]] 
 

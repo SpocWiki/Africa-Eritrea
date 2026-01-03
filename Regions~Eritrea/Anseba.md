@@ -40,17 +40,17 @@ markerFolder: ./Anseba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anseba](/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba|Anseba]] 
 
-### #is_/same_as :: [Anseba.public](/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.public|Anseba.public]] 
 
-### #is_/same_as :: [Anseba.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.internal|Anseba.internal]] 
 
-### #is_/same_as :: [Anseba.protect](/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.protect|Anseba.protect]] 
 
-### #is_/same_as :: [Anseba.private](/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.private|Anseba.private]] 
 
-### #is_/same_as :: [Anseba.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.personal|Anseba.personal]] 
 
-### #is_/same_as :: [Anseba.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Eritrea/Regions~Eritrea/Anseba.secret|Anseba.secret]] 
 
