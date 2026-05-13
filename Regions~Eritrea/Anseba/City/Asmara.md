@@ -28,7 +28,7 @@ coordinates: [[Asmara]]
 markerFile: [[Asmara]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

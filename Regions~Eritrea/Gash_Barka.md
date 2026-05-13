@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Gash_Barka/
 markerFolder: ./Gash_Barka/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
